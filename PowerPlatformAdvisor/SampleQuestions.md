@@ -1,6 +1,8 @@
-# Power Platform Advisor Sample Questions
+# Sample questions
 
-- How do I create a secure canvas app that uses Dataverse?
-- What licensing and governance considerations apply to a Power Automate cloud flow?
-- How do I move a Copilot Studio agent from development to production using ALM?
-- Is this Power Pages feature generally available, and what are its prerequisites?
+- How do I create a Power Automate approval flow using Dataverse?
+- What licensing and security considerations apply to Copilot Studio?
+- How should I govern Power Platform environments and connectors?
+- What is the recommended ALM process for a Power Apps solution?
+- How do I use Dataverse security roles to limit access to business data?
+- What prerequisites should I review before publishing a Power Pages site?

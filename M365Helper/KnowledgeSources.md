@@ -1,13 +1,12 @@
-# Microsoft 365 Helper Knowledge Sources
+# Approved knowledge sources
 
-Configure only these public Microsoft websites as knowledge sources:
+Use only these public Microsoft sources when configuring the Microsoft 365 Helper agent:
 
-- [Microsoft Learn: Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/)
-- [Microsoft Learn: Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-copilot/)
-- [Microsoft Learn: SharePoint](https://learn.microsoft.com/en-us/sharepoint/)
-- [Microsoft Learn: Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/)
-- [Microsoft Support](https://support.microsoft.com/)
-- [Microsoft Adoption](https://adoption.microsoft.com/)
-- [Microsoft Tech Community](https://techcommunity.microsoft.com/)
+1. [Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/)
+2. [Microsoft Copilot documentation](https://learn.microsoft.com/en-us/microsoft-copilot/)
+3. [SharePoint documentation](https://learn.microsoft.com/en-us/sharepoint/)
+4. [Microsoft Teams documentation](https://learn.microsoft.com/en-us/microsoftteams/)
+5. [Microsoft Support](https://support.microsoft.com/)
+6. [Microsoft Adoption](https://adoption.microsoft.com/)
 
-Microsoft-authored articles on Microsoft Tech Community may be used when relevant.
+Microsoft Tech Community articles may be used only when they are published by Microsoft.

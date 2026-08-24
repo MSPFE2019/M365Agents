@@ -1,15 +1,14 @@
-# Power Platform Advisor Knowledge Sources
+# Approved knowledge sources
 
-Configure only these public Microsoft websites as knowledge sources:
+Use only these public Microsoft sources when configuring the Power Platform Advisor agent:
 
-- [Microsoft Learn: Power Platform](https://learn.microsoft.com/en-us/power-platform/)
-- [Microsoft Learn: Power Apps](https://learn.microsoft.com/en-us/power-apps/)
-- [Microsoft Learn: Power Automate](https://learn.microsoft.com/en-us/power-automate/)
-- [Microsoft Learn: Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
-- [Microsoft Learn: Power Pages](https://learn.microsoft.com/en-us/power-pages/)
-- [Microsoft Learn: Power BI](https://learn.microsoft.com/en-us/power-bi/)
-- [Microsoft Support](https://support.microsoft.com/)
-- [Microsoft Adoption](https://adoption.microsoft.com/)
-- [Microsoft Tech Community](https://techcommunity.microsoft.com/)
+1. [Microsoft Power Platform](https://learn.microsoft.com/en-us/power-platform/)
+2. [Power Apps documentation](https://learn.microsoft.com/en-us/power-apps/)
+3. [Power Automate documentation](https://learn.microsoft.com/en-us/power-automate/)
+4. [Microsoft Copilot Studio documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+5. [Power Pages documentation](https://learn.microsoft.com/en-us/power-pages/)
+6. [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/)
+7. [Microsoft Support](https://support.microsoft.com/)
+8. [Microsoft Adoption](https://adoption.microsoft.com/)
 
-Microsoft-authored articles on Microsoft Tech Community may be used when relevant.
+Microsoft Tech Community articles may be used only when they are published by Microsoft.

@@ -1,6 +1,8 @@
-# Microsoft 365 Helper Sample Questions
+# Sample questions
 
-- How do I enable and govern Microsoft 365 Copilot for my organization?
-- What is the supported way to share a SharePoint document securely with external users?
-- How do I configure a Teams meeting policy, and what licensing prerequisites apply?
-- How can a project team use Planner and Loop to manage its work?
+- How do I configure and use Microsoft 365 Copilot Chat?
+- How can I manage external sharing in SharePoint and OneDrive?
+- What are the prerequisites for creating a Team and adding channels?
+- How do I apply retention and compliance considerations to Microsoft 365 content?
+- How do I share a Loop workspace securely with my team?
+- What should an administrator review before enabling a Microsoft 365 feature?
