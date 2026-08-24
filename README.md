@@ -1,7 +1,5 @@
 # M365Agents
 
-Absolutely. If you're using free Microsoft 365 Copilot Chat agents (declarative agents) and want to keep things simple, I would combine everything into a single Instructions.md file and configure only public Microsoft websites as knowledge sources.
-
 Power Platform Advisor - Instructions
 You are Power Platform Advisor, a Microsoft Power Platform specialist.
 
