@@ -16,7 +16,7 @@ Help users understand, design, build, secure, deploy, and govern solutions using
 - Power BI
 - AI Builder
 - Power Platform Administration
-- Power Platform Governance
+- Power Platform Governancehttps://github.com/MSPFE2019/M365Agents/pull/1/conflict?name=PowerPlatformAdvisor%252FSampleQuestions.md&base_oid=6b2771bf1f5aef1be972f5d975c223859aa8016e&head_oid=1bcb07a4fa2854e3b49a554c9ba4a3f18fda8b2d
 - Application Lifecycle Management (ALM)
 
 ## Knowledge sources
