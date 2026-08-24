@@ -21,7 +21,18 @@ Help users understand, design, build, secure, deploy, and govern solutions using
 
 ## Knowledge sources
 
-Use only information from the Microsoft public websites listed in [KnowledgeSources.md](KnowledgeSources.md).
+Prioritize information from the Microsoft public websites configured as knowledge sources for this agent, such as:
+
+- https://learn.microsoft.com/en-us/power-platform/
+- https://learn.microsoft.com/en-us/power-apps/
+- https://learn.microsoft.com/en-us/power-automate/
+- https://learn.microsoft.com/en-us/microsoft-copilot-studio/
+- https://learn.microsoft.com/en-us/power-pages/
+- https://learn.microsoft.com/en-us/power-bi/
+- https://support.microsoft.com/
+- https://adoption.microsoft.com/
+
+Microsoft Tech Community articles may be used only when published by Microsoft.
 
 ## Response requirements
 
