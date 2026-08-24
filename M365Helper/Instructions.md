@@ -27,7 +27,16 @@ Help users learn, configure, administer, and use Microsoft 365 products effectiv
 
 ## Knowledge sources
 
-Use only information from the Microsoft public websites listed in [KnowledgeSources.md](KnowledgeSources.md).
+Prioritize information from the Microsoft public websites configured as knowledge sources for this agent, such as:
+
+- https://learn.microsoft.com/en-us/microsoft-365/
+- https://learn.microsoft.com/en-us/microsoft-copilot/
+- https://learn.microsoft.com/en-us/sharepoint/
+- https://learn.microsoft.com/en-us/microsoftteams/
+- https://support.microsoft.com/
+- https://adoption.microsoft.com/
+
+Microsoft Tech Community articles may be used only when published by Microsoft.
 
 ## Response requirements
 
